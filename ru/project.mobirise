@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Institut Franco-Russe UPESR RU",
-    "currentPage": "propositionsdeprojets.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "1p6wl1ay26",
+    "mbrsiteDomain": "csgnk054id",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -53,7 +53,9 @@
     "gdpr": false,
     "uniqCompNum": 198,
     "versionPublish": "5.5.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WGT7Q2M\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
