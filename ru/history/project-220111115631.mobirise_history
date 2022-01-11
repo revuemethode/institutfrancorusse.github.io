@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Institut Franco-Russe UPESR RU",
-    "currentPage": "index.html",
+    "currentPage": "annonces.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "gfd7wqcdml",
+    "mbrsiteDomain": "5zqtfuczwz",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,

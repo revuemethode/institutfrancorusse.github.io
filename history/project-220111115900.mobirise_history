@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Institut Franco-Russe UPESR",
-    "currentPage": "index.html",
+    "currentPage": "annonces-1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "soazjljjv0",
+    "mbrsiteDomain": "4pmayzammk",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -55,7 +55,9 @@
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-QK26HPBYYX\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-QK26HPBYYX');\n</script>",
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
