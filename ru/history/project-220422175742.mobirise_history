@@ -31014,13 +31014,13 @@
     },
     "projets-4.html": {
       "settings": {
-        "title": "Летняя школа Suba rboribus",
+        "title": "Летняя школа Subarboribus",
         "meta_descr": "В Летней школе Sub arboribus (лат. «под деревьями»), как в старые добрые времена, первая половина дня будет посвящена ремеслу (инженерной задаче), а вторая – будет проходить в тени деревьев, где в воображаемых тогах молодёжь будут общаться на социальные, культурные, технологические и философские темы в целях дальнейшего формирования сценариев и картин будущего.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 11,
-        "meta_image": "@PROJECT_PATH@/assets/images/logo3-1237x1005.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/lequelleclafond%20(8)-2000x1335.jpg"
       },
       "components": [
         {
