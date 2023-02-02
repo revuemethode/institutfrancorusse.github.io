@@ -16,13 +16,13 @@ foreach (["PHPMailer.php", "Exception.php", "SMTP.php"] as $f) {
 }
 
 // All mailform settings
-$to = "sidorova_ev@npi-tu.ru";														// To Address
-$toAlt = "a:sidorova_ev@npi-tu.ru";												// Additional Recipients
-$from = "sidorova_ev@npi-tu.ru";													// From Address
+$to = "institutfrancorusse@gmail.com";														// To Address
+$toAlt = "";												// Additional Recipients
+$from = "no-reply@institutfrancorusse.org";													// From Address
 $fromName = "Institut Franco-Russe de l'UPESR";											// From Name
 $fromThem = ("0" == "1" ? true : false);					// Use Sender as From Address
-$fromThemReplyTo = ("0" == "1" ? true : false);	// Use Sender as Reply-To
-$fromNameThem = ("0" == "1" ? true : false);			// Use Sender Name as From Name
+$fromThemReplyTo = ("1" == "1" ? true : false);	// Use Sender as Reply-To
+$fromNameThem = ("1" == "1" ? true : false);			// Use Sender Name as From Name
 $fromNameThemField = "{name}";						// Name of the field(s) that can contain the Sender Name
 $template = "Hi,<br><br>You have received a new message from your website.<br><br>{formdata}<br><br>Date: {date}<br>Remote IP: {ip}<br><br>---<br>Have a nice day.";											// Mail Template
 $autorespondSubjectPrefix = "Re:";			// Autorespond Form Subject Prefix
