@@ -16,9 +16,9 @@ foreach (["PHPMailer.php", "Exception.php", "SMTP.php"] as $f) {
 }
 
 // All mailform settings
-$to = "institutfrancorusse@gmail.com";														// To Address
-$toAlt = "a:institutfrancorusse@gmail.com";												// Additional Recipients
-$from = "institutfrancorusse@gmail.com";													// From Address
+$to = "sidorova_ev@npi-tu.ru";														// To Address
+$toAlt = "a:sidorova_ev@npi-tu.ru";												// Additional Recipients
+$from = "sidorova_ev@npi-tu.ru";													// From Address
 $fromName = "Institut Franco-Russe de l'UPESR";											// From Name
 $fromThem = ("0" == "1" ? true : false);					// Use Sender as From Address
 $fromThemReplyTo = ("0" == "1" ? true : false);	// Use Sender as Reply-To
